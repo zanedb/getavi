@@ -1,6 +1,6 @@
 {
   "name": "getavi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Returns the image URL from a social media profile",
   "main": "index.js",
   "scripts": {
